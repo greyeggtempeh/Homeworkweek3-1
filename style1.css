@@ -1,0 +1,44 @@
+body {
+    margin:0;
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body> footer{
+    background-color: dodgerblue;
+    padding: 50px;
+    color: white;
+    text-align: right;
+}
+
+body>header {
+    background-color: dodgerblue;
+    color: white;
+}
+
+#logo {
+    margin:0;
+    font-family: "Open sans", sans-serif
+
+}
+nav>ul {
+    list-style: none;
+}
+
+nav >ul> li > a {
+    color:white; 
+}
+
+body > main > article {
+    width: 200%;
+}
+
+.email-button {
+    background-color:transparent;
+    border: 1px solid dodgerblue;
+
+}
+
+.password-button{
+    background-color: transparent;
+    border: 1px solid green;
+}
